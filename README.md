@@ -3,7 +3,7 @@ const name = ['i', 'b', 'r', 'a', 'h', 'i', 'm'].reduce((acc, i) => acc += i, ''
 ```
 # Hello I'm {{ name }}!! I'm a Junior Frontend Developer @reybex.
 
-# My current tech stack based on;
+## My current tech stack based on;
 
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
