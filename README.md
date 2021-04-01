@@ -20,3 +20,7 @@ const name = ['i', 'b', 'r', 'a', 'h', 'i', 'm'].reduce((acc, i) => acc += i, ''
 --------
 
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=turanibrahim)
+
+--------
+
+![](https://www.codewars.com/users/_turanibrahim/badges/large)
