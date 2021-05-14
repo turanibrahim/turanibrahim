@@ -1,7 +1,4 @@
-```javascript
-const name = ['i', 'b', 'r', 'a', 'h', 'i', 'm'].reduce((acc, i) => acc += i, '');
-```
-# Hello I'm {{ name }}!! I'm a Junior Frontend Developer @reybex.
+# Hello I'm İbrahim!! I'm a Junior Frontend Developer @reybex.
 
 ## My current tech stack based on;
 
