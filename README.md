@@ -1,4 +1,4 @@
-# Hello I'm İbrahim!! I'm a Junior Frontend Developer @reybex.
+# Hello I'm İbrahim! I'm a Junior Frontend Developer @reybex.
 
 ## My current tech stack based on;
 
