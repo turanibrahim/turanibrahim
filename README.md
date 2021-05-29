@@ -16,8 +16,4 @@
 
 --------
 
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=turanibrahim)
-
---------
-
 ![](https://www.codewars.com/users/_turanibrahim/badges/large)
