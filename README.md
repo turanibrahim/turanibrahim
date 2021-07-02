@@ -1,5 +1,5 @@
 # Hello I'm İbrahim!
->I'm a Junior Frontend Developer @reybex.
+>I'm a Frontend Developer @reybex.
 
 --------
 
