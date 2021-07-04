@@ -24,7 +24,3 @@
 ---------
 
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=turanibrahim)
-
----------
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=turanibrahim)
