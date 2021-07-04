@@ -20,3 +20,7 @@
 --------
 
 ![](https://www.codewars.com/users/_turanibrahim/badges/large)
+
+---------
+
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=turanibrahim)
