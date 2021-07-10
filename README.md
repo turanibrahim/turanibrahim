@@ -25,4 +25,4 @@
 
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=turanibrahim)
 
-![](https://komarev.com/ghpvc/?username=turanibrahim)
+![](https://hit.yhype.me/github/profile?user_id=25150528)
