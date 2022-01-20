@@ -19,8 +19,8 @@
 
 --------
 
-![](https://www.codewars.com/users/_turanibrahim/badges/large)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turanibrahim&show_icons=true&theme=tokyonight)
 
 ---------
-
+![](https://www.codewars.com/users/_turanibrahim/badges/large)
 ![](https://hit.yhype.me/github/profile?user_id=25150528)
