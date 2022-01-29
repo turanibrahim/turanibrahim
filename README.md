@@ -20,7 +20,7 @@
 --------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turanibrahim&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turanibrahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=turanibrahim&theme=dark&show_icons=true&theme=tokyonight)
 
 ---------
 ![](https://www.codewars.com/users/_turanibrahim/badges/large)
