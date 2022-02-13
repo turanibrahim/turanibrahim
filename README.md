@@ -1,5 +1,5 @@
 # Hello, I'm İbrahim!
->I'm a Frontend Developer @vivense.
+>Currently working as Frontend Developer @vivense.
 
 --------
 
