@@ -1,10 +1,7 @@
 # Hello, I'm İbrahim!
->Currently working as Frontend Developer HUB21.
+Currently working as Frontend Developer [@HUB21](www.thehub21.com).
 
 --------
-
-## My current tech stack based on;
-
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
