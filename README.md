@@ -1,5 +1,5 @@
 # Hello, I'm İbrahim!
->Currently working as Frontend Developer @vivense.
+>Currently working as Frontend Developer Hub21.
 
 --------
 
