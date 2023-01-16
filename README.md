@@ -19,7 +19,6 @@ Currently working as Frontend Developer [@HUB21](www.thehub21.com).
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 --------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turanibrahim&show_icons=true&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=turanibrahim&theme=dark&show_icons=true&theme=tokyonight)
 
 ---------
