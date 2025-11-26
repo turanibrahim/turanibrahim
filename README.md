@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://www.ibrahimturan.com/profile-img.png" width="150" alt="İbrahim Turan"/>
   <h1>İbrahim Turan</h1>
   <p>Software Engineer</p>
 </div>
@@ -33,4 +32,5 @@ I'm a Software Engineer from Ankara, Turkey 🇹🇷 with 5 years of experience.
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/></a>
+
 
