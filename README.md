@@ -5,7 +5,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ibrahimturann/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://dev.to/_ibrahimturan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>
   <a href="https://ibrahimturan.com/"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </div>
 
